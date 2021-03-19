@@ -26,7 +26,7 @@ usuarios = {usuario1.id: usuario1,
 
 
 jogo1 = Jogo('Super Mario', 'Ação', 'SNES')
-jogo2 = Jogo('Street Gold', 'RPG', 'GBA')
+jogo2 = Jogo('Street Fighter', 'Fight', 'GBA')
 lista = [jogo1, jogo2]
 
 @app.route('/')
