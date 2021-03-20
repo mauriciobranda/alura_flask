@@ -17,7 +17,7 @@ class Usuario:
 
 
 usuario1 = Usuario('uou', 'Mauricio', '1234')
-usuario2 = Usuario('mike', 'Mike Tyson', '8a0')
+usuario2 = Usuario('mike', 'Blow Tyson', '8a0')
 usuario3 = Usuario('bobo', 'Bibi X', 'caelo')
 
 usuarios = {usuario1.id: usuario1,
